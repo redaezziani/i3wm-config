@@ -1,0 +1,23 @@
+# Ignore backup files
+*~
+*.bak
+*.backup
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+.tmp/
+tmp/
+
+# Ignore cached files
+__pycache__/
+*.py[cod]
+.cache/
+
+# Ignore local development files
+.idea/
+.vscode/
+
+# Ignore build artifacts
+build/
