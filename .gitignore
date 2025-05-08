@@ -1,0 +1,29 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# User-specific files that shouldn't be tracked
+.directory
+.Trash-*
+
+# Temporary files
+*.tmp
+
+# Python cache files (if any scripts generate them)
+__pycache__/
+*.py[cod]
+*$py.class
